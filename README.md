@@ -5,7 +5,7 @@ For one, the written word is much easier to digest than the spoken word can some
 
  The following will be done: 
 
-* Create an entity recognition around passages of scriptures in order to futher understand what has been covered and what hasn't been. 
+* Create an entity recognition around passages of scriptures in order to further understand what has been covered and what hasn't been. 
 
 * Understand concepts and patterns over time, some of that will depend on how one might have taught or might have brought insight. 
 
